@@ -37,13 +37,13 @@ pip install -r requirements.txt
 python .\CWA\cwa_crawler.py
 ```
 
-3. 啟動 Streamlit 本地預覽（或使用你已部署的 link）：
+3. 啟動 Streamlit 本地預覽：
 
 ```powershell
 .\.venv\Scripts\python.exe -m streamlit run .\CWA\streamlit_app.py
 ```
 
-Streamlit 部署（我幫你部署的連結）: 🚀 https://aiotlecture13-kdbascelqncqoi4mdqwv8d.streamlit.app/
+Streamlit 部署: 🚀 https://aiotlecture13-kdbascelqncqoi4mdqwv8d.streamlit.app/
 
 4. 如果要重新抓電影資料並產生靜態網站：
 
